@@ -4,3 +4,5 @@ streamlit_chat
 faiss-cpu
 sentence-transformers
 huggingface_hub
+transformers 
+sentence-transformers
