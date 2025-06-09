@@ -1,0 +1,4 @@
+LangChain is a framework for developing applications powered by language models.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+Hugging Face provides access to a wide range of pretrained models.
+Streamlit makes it easy to build custom web apps for machine learning and data science.
