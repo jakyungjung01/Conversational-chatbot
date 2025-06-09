@@ -13,3 +13,6 @@
 
 3. 웹 실행
     streamlit run app.py
+
+4. 기술 스택
+    임베딩, 체인: Huggingface 로컬 설치 후 사용
